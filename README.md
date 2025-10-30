@@ -105,6 +105,16 @@ Please refer to the following papers for the technique details.
 
 ```
 @article{
+  title = {Leveraging graph-order scheduling and cascade hashing for fast feature matching of spherical images},
+  author = {You, Kan and Jiang, San and Zhang, Wan and Li, Yaxin and Huang, Wei and Chen, Zhipeng and Li, Qingquan},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume = {231},
+  pages = {53--67},
+  year = {2026},
+  publisher = {Elsevier}
+}
+
+@article{
   title = {3D reconstruction of spherical images: a review of techniques, applications, and prospects},
   author = {Jiang, San and You, Kan and Li, Yaxin and Weng, Duojie and Chen, Wu},
   journal = {Geo-spatial Information Science},
