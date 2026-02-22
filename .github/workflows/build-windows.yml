@@ -33,6 +33,9 @@ jobs:
       VCPKG_BINARY_SOURCES: "clear;x-gha,readwrite"
 
     steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
 
 
       - name: Install CUDA
